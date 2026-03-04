@@ -13,14 +13,14 @@ Building strategies based on data, not guesswork.
 I'm passionate about digital marketing, website optimization, and performance analysis.  
 I focus on creating strategies that are measurable, scalable, and impactful.
 
-💡 I believe marketing should be:
+I believe marketing should be:
 - Creative but strategic  
 - Data-driven, not assumption-driven  
 - Focused on long-term growth  
 
 ---
 
-## 🛠 Tools & Platforms
+## Tools & Platforms
 
 <p>
 🔹 Google Analytics <br>
@@ -36,13 +36,13 @@ I focus on creating strategies that are measurable, scalable, and impactful.
 ## 📊 Featured Projects
 
 Here you'll find:
-- 📈 SEO Audit Samples  
-- 📱 Social Media Strategy Plans  
-- 🌐 Website Optimization Projects  
-- 📑 Campaign Performance Reports  
-- 🧪 Marketing Experiments & Mini Analysis  
+-  SEO Audit Samples  
+-  Social Media Strategy Plans  
+-  Website Optimization Projects  
+-  Campaign Performance Reports  
+-  Marketing Experiments & Mini Analysis  
 
-More projects coming soon as I continue building and learning 🚀
+More projects coming soon as I continue building and learning 
 
 ---
 
@@ -50,7 +50,8 @@ More projects coming soon as I continue building and learning 🚀
 
 - Improving SEO analysis skills  
 - Learning more about web performance  
-- Exploring automation for marketing tasks  
+- Exploring automation for marketing tasks
+- Analyzing social media 
 
 ---
 
@@ -58,8 +59,9 @@ More projects coming soon as I continue building and learning 🚀
 
 Feel free to connect with me for collaboration or discussion about digital marketing & growth strategy!
 
-LinkedIn: (add your link here)  
-Email: (professional email here)
+LinkedIn: www.linkedin.com/in/qonita-al-amanah-b0b21b126  
+Email: qonitaalamanah@gmail.com
+WhatsApp: +62-857-9505-0487
 
 ---
 
