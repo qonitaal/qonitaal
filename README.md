@@ -26,15 +26,6 @@ I believe marketing should be:
 
 ## Tools & Platforms
 
-<p>
-🔹 Google Analytics <br>
-🔹 Google Search Console <br>
-🔹 Meta Ads Manager <br>
-🔹 Canva <br>
-🔹 Basic HTML & CSS <br>
-🔹 Content Planning & Campaign Strategy
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Analytics-Data_Tracking-FFB6C1?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Search_Console-SEO-FFC0CB?style=for-the-badge&logo=google&logoColor=white"/>
