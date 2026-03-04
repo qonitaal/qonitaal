@@ -77,7 +77,11 @@ WhatsApp: +62-857-9505-0487
 
 ##  GitHub Statistics
 
+---
+
+## 💗 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qonitaal&show_icons=true&theme=default&hide_border=true&title_color=F8A5C2&icon_color=F8A5C2&text_color=7F8C8D" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=qonitaal&hide_border=true&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideLabels=7F8C8D&dates=7F8C8D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qonitaal&show_icons=true&hide_border=true&title_color=F8A5C2&icon_color=F8A5C2&text_color=7F8C8D&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=qonitaal&hide_border=true&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideLabels=7F8C8D&dates=7F8C8D&cache_seconds=1800" width="48%" />
 </p>
