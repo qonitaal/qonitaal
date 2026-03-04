@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Qonita 👋</h1>
+
 <h3 align="center">Digital Marketing Enthusiast | SEO & Data-Driven Strategy</h3>
 
 <p align="center">
