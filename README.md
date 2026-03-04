@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/qonitaal/qonitaal/refs/heads/main/Qonita%20Al-Amanah.png)" />
+  <img src="banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Qonita 👋</h1>
