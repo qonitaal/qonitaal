@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[LINK_GAMBAR_LU](https://raw.githubusercontent.com/qonitaal/qonitaal/refs/heads/main/Qonita%20Al-Amanah.png)" />
+</p>
+
 <h1 align="center">Hi, I'm Qonita 👋</h1>
 <h3 align="center">Digital Marketing Enthusiast | SEO & Data-Driven Strategy</h3>
 
