@@ -12,7 +12,7 @@ Building strategies based on data, not guesswork.
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 I'm passionate about digital marketing, website optimization, and performance analysis.  
 I focus on creating strategies that are measurable, scalable, and impactful.
@@ -36,7 +36,7 @@ I believe marketing should be:
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 Here you'll find:
 -  SEO Audit Samples  
@@ -49,7 +49,7 @@ More projects coming soon as I continue building and learning
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 - Improving SEO analysis skills  
 - Learning more about web performance  
@@ -74,18 +74,12 @@ WhatsApp: +62-857-9505-0487
 
 ---
 
-
-##  GitHub Statistics
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qonitaal&show_icons=true&theme=transparent&hide_border=true&title_color=F8A5C2&icon_color=F8A5C2&text_color=9E9E9E&bg_color=00000000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qonitaal&theme=transparent&hide_border=true&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideLabels=9E9E9E&dates=9E9E9E" width="48%" />
 </p>
 
 ---
-
-## 🌸 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qonitaal&bg_color=ffffff&color=F8A5C2&line=F8A5C2&point=FBCFE8&area=true&hide_border=true" width="95%"/>
