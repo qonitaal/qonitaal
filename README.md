@@ -35,6 +35,14 @@ I believe marketing should be:
 🔹 Content Planning & Campaign Strategy
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Analytics-Data_Tracking-FFB6C1?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Search_Console-SEO-FFC0CB?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-Paid_Media-F8C8DC?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-Design-FF69B4?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-Landing_Page-FF8DA1?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 Featured Projects
@@ -66,17 +74,6 @@ Feel free to connect with me for collaboration or discussion about digital marke
 LinkedIn: www.linkedin.com/in/qonita-al-amanah-b0b21b126  
 Email: qonitaalamanah@gmail.com
 WhatsApp: +62-857-9505-0487
-
----
-## 🌷 Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Analytics-Data_Tracking-FFB6C1?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Search_Console-SEO-FFC0CB?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta_Ads-Paid_Media-F8C8DC?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-Design-FF69B4?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-Landing_Page-FF8DA1?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
 
 ---
 
